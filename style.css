@@ -42,6 +42,71 @@ body {
     left: 40%;
 }  
 
+#donate{
+    text-align: center;
+    font-size: 40px;
+}
+#parag{
+    text-align: center;
+    font-size: 18px;
+    color: gray;
+}
+.main {
+    margin-left: 200px;
+}
+
+.plan{
+    margin-left: 200px;
+}
+
+.card-1{
+    width: 10%;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: rgb(225, 219, 219);
+    text-align: center;
+}
+#box-2 {
+    background-color: rgb(248, 222, 226);
+    border: 2px solid rgb(246, 189, 198);
+}
+
+#h1{
+    text-align: center;
+    font-size: 40px;
+}
+.field-group{
+    width: 600px;
+    padding-left: 300px;
+    position: relative;
+    padding-top: 15px;
+}
+.input-field{
+    text-align: center;
+    width: 100%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid #999999;
+    padding: 10px 0;
+    background: transparent;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    position: absolute;
+    left: 40%;
+}
+
 
 .footer {
     background-color: black;
